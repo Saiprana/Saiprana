@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Sai Pranavi Reddy Patlolla</h3>
+<h4 align="center">Hi 👋, I'm Sai Pranavi Reddy Patlolla</h4>
 <h4 align="center">A Passionate Data Scienctist | Technology Enthusiast and Problem Solver</h4>
 
 - 💬 Ask me about **Python, Machine Learning, Flask, JavaScript and React**
