@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Pranavi Reddy Patlolla</h1>
-<h3 align="center">A Passionate Full-Stack Developer | Technology Enthusiast and Problem Solver</h3>
+<h3 align="center">A Passionate Data Scienctist | Technology Enthusiast and Problem Solver</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saiprana](https://github.com/Saiprana)
 
