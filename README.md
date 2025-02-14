@@ -1,6 +1,5 @@
 <h3 align="center">Hi 👋, I'm Sai Pranavi Reddy Patlolla</h3>
 <h3 align="center">A Passionate Data Scienctist | Technology Enthusiast and Problem Solver</h3>
-
 - 💬 Ask me about **Python, Machine Learning, Flask, JavaScript and React**
 
 - 📫 How to reach me **psaireddy9989@gmail.com**
